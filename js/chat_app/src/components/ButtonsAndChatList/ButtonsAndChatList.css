@@ -1,0 +1,9 @@
+.chatsAndButtons {
+    display: flex;
+    margin-top: 30px;
+}
+
+.chat {
+    max-width: 400px;
+    width: 100%;
+}
